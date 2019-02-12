@@ -16,7 +16,7 @@ The search bar is your friend.
 
 **ODL examples:**
 
-There are a lot of examples for all kinds of applications in the [examples](https://github.com/odlgroup/odl/tree/master/examples** directory of the ODL source.
+There are a lot of examples for all kinds of applications in the [examples](https://github.com/odlgroup/odl/tree/master/examples) directory of the ODL source.
 For the majority of exercises, there exists at least one example that comes close. **However**, you are strongly encouraged not to peek at them immediately.
 For learning, it is better to struggle for a bit and ask questions, than to head straight to a solution written by someone else.
 
